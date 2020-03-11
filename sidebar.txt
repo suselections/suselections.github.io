@@ -1,14 +1,6 @@
 <!-- Sidebar -->
 					<div id="sidebar">
 						<div class="inner">
-
-							<!-- Search -->
-								<section id="search" class="alt">
-									<form method="post" action="#">
-										<input type="text" name="query" id="query" placeholder="Search" />
-									</form>
-								</section>
-
 							<!-- Menu -->
 								<nav id="menu">
 									<header class="major">
@@ -45,7 +37,7 @@
 												<li><a href="Sydney.html">Sydney Merritt</a></li>
 												<li><a href="Arundhati.html">Arundhati Nair</a></li>												
 												<li><a href="Kobi.html">Kobi Pollard</a></li>
-												<li><a href="Haoyi.html">Haoyi Qi</a></li>												
+												<li><a href="Haoyi.html">Haoyi Qiu</a></li>												
 												<li><a href="Sneha.html">Sneha Shindi</a></li>
 												<li><a href="Shivali.html">Shivali Sood</a></li>
 												<li><a href="Jared.html">Jared Warden-Joseph</a></li>
@@ -121,7 +113,7 @@
 										<li>
 											<span class="opener">Science Senator</span>
 											<ul>
-												<li><a href="Haoyi.html">Haoyi Qi</a></li>
+												<li><a href="Haoyi.html">Haoyi Qiu</a></li>
 											</ul>
 										</li>
 										<li>
